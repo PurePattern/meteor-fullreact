@@ -14,7 +14,7 @@ mymodel = FullReact({
   tvs: Tvs
 }).getModel();
 ```
-// This two calls react from server.
+This two calls react from server.
 
 ```  
   mymodel.tvs.push({name: 'tv name'});
